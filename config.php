@@ -23,9 +23,9 @@ define('DIR_UPLOAD', DIR_STORAGE . 'upload/');
 // DB
 define('DB_DRIVER', 'mysqli');
 define('DB_HOSTNAME', '127.0.0.1:3306');
-define('DB_USERNAME', 'bn_opencart');
-define('DB_PASSWORD', 'd712fe6864');
-define('DB_DATABASE', 'bitnami_opencart');
+define('DB_USERNAME', '');
+define('DB_PASSWORD', '');
+define('DB_DATABASE', '');
 define('DB_PORT', '3306');
 define('DB_PREFIX', 'oc_');
 
